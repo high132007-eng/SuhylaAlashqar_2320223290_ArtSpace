@@ -1,0 +1,14 @@
+<resources>
+    <style
+        name="Base.Theme.SuhylaAlashqar_2320223290_ArtSpace"
+        parent="Theme.Material3.DayNight.NoActionBar">
+
+        <item name="colorPrimary">#8D4E1B</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+
+    </style>
+
+    <style
+        name="Theme.SuhylaAlashqar_2320223290_ArtSpace"
+        parent="Base.Theme.SuhylaAlashqar_2320223290_ArtSpace" />
+</resources>
